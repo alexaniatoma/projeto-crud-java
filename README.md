@@ -29,5 +29,6 @@ Este sistema foi desenvolvido em **Java** com foco na gestão de produtos, permi
 
 ## 🎯 **Como Executar o Projeto**
 1. Clone o repositório para a sua máquina:
+ https://github.com/alexaniatoma/projeto-crud-java.git
 
   
