@@ -10,11 +10,11 @@ Este sistema foi desenvolvido em **Java** com foco na gestão de produtos, permi
 ---
 
 ## 🚀 **Funcionalidades**
-✅ Cadastro de produtos (Vinhos, Cervejas e Acessórios)  
-✅ Listar produtos com exibição detalhada das informações dos produtos cadastrados
-✅ Buscar produtos por Id
-✅ Atualizar produtos por Id
-✅ Deletar produto por Id
+✅ Cadastro de produtos (Vinhos, Cervejas e Acessórios) <br>
+✅ Listar produtos com exibição detalhada das informações dos produtos cadastrados  <br>
+✅ Buscar produtos por Id  <br>
+✅ Atualizar produtos por Id  <br>
+✅ Deletar produto por Id  <br>
 ✅ Validação de entradas para garantir a consistência dos dados  
 
 ---
